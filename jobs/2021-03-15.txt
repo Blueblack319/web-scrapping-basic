@@ -1,0 +1,9 @@
+Company Name: 3RI Technologies Pvt Ltd
+Required Skills: algorithms,python,django,datastructures,mysql,sql
+More Info: https://www.timesjobs.com/job-detail/python-3ri-technologies-pvt-ltd-pune-0-to-3-yrs-jobid-NUo__PLUS__Yh8xWVdzpSvf__PLUS__uAgZw==&source=srp
+Company Name: INFOWIZ Software Solutions
+Required Skills: python,django,git,html5,debugging,svn,javascript
+More Info: https://www.timesjobs.com/job-detail/python-infowiz-software-solutions-chandigarh-3-to-4-yrs-jobid-fnXnqSfE3GNzpSvf__PLUS__uAgZw==&source=srp
+Company Name: FresherMart
+Required Skills: python,django,DjangoFramework
+More Info: https://www.timesjobs.com/job-detail/python-developer-freshermart-navi-mumbai-mumbai-0-to-1-yrs-jobid-PUYMPEa4NaFzpSvf__PLUS__uAgZw==&source=srp
